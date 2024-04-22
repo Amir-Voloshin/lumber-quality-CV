@@ -63,7 +63,7 @@ After selecting the optimal weights, I used them to detect and classify objects 
 |:-:|:-:|
 |![Image 1](report_images/test_3.png)|![Image 2](report_images/test_4.png)|
 
-In addition to testing the model on the test set, I tested on a video available at “Video Detections/test_detect.mp4”. The model successfully detected and classified every board/operator in the video.
+In addition to testing the model on the test set, I tested on a video available [here](https://www.youtube.com/shorts/nXIx9iLexUE) and at “Video Detections/test_detect.mp4”. The model successfully detected and classified every board/operator in the video.
 
 ## Conclusion
 This project demonstrates the potential of computer vision technology, specifically convolutional neural networks (CNNs), to address key challenges faced by the lumber industry in tracking and optimizing their production processes. By leveraging a finely tuned CNN model, trained on annotated images and videos of lumber production lines, the project aims to automate detection and classification of wood quality and operator efficiency.
